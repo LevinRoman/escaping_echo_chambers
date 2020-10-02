@@ -14,3 +14,4 @@ scipy==1.5.2
 seaborn==0.11.0
 matplotlib==3.3.2
 scikit-learn==0.23.2
+scikit-surprise==1.1.1
